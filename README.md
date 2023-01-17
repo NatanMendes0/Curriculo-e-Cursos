@@ -8,4 +8,4 @@ Curso Técnico em Informática para Internet Integrado
 
 <h4>Previsão de conclusão: 2024</h4>
 
-comprovante de matrícula <a href="https://docs.google.com/document/d/1V-KKUZG-tpFsYPs3ph_9zjeToVUoTW39u1h6UQqcRWM/edit?usp=sharing"> aqui </a>
+Comprovante de Matrícula <a href="https://docs.google.com/document/d/1V-KKUZG-tpFsYPs3ph_9zjeToVUoTW39u1h6UQqcRWM/edit?usp=sharing"> aqui </a>
