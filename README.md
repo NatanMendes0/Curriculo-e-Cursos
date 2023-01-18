@@ -10,6 +10,20 @@ Curso Técnico em Informática para Internet Integrado
 
 Comprovante de Matrícula <a href="https://docs.google.com/document/d/1V-KKUZG-tpFsYPs3ph_9zjeToVUoTW39u1h6UQqcRWM/edit?usp=sharing"> aqui </a>
 
+<li>Algoritmos e Programação</li>
+<li>Programação para Internet</li>
+<li>Sistemas Operacionais</li>
+<li>Programação Orientada a Objetos</li>
+<li>Banco de Dados</li>
+<li>Administração de Sistemas Operacionais</li>
+<li>Redes e Computadores</li>
+<li>Programação Visual</li>
+<li>Teste e Qualidade de Software</li>
+<li>Programação para Dispositivos Móveis</li>
+<li>Engenharia de Software</li>
+<li>Gestão e Empreendorismo</li>
+<li>Implementação</li>
+
 <p>
 --------------------//--------------------
 </p>
