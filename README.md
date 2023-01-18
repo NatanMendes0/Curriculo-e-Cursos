@@ -1,6 +1,8 @@
 # Certificados de cursos
 
+<h4>
 Certificados <a href="https://drive.google.com/drive/folders/1XY3ewq-zKanyI1XjKBd7_7qcl2Pxjnhr?usp=share_link"> aqui </a>
+</h4>
 
 Curso Técnico em Informática para Internet Integrado
 
@@ -40,3 +42,12 @@ Certificado <a href="https://docs.google.com/document/d/18ng5TMvwCHsQkWc7LoGQruJ
 <p>
 --------------------//--------------------
 </p>
+
+<h5>Em andamento:</h5>
+
+Explorando o Banco de Dados Oracle
+
+<li>Introdução ao banco de dados Oracle</li>
+<li>Acessando o banco de dados Oracle</li>
+<li>Criando um banco de dados Oracle com DBCA</li>
+<li>Inicializando e desligando uma instancia do banco de dados</li>
