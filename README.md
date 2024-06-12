@@ -105,6 +105,34 @@ Você pode acessar o certificado <a href="https://drive.google.com/file/d/1bhG8D
 - Conhecendo um Banco de Dados
 - Implementando um Banco De Dados
 
+## Projeto de ensino Desvendando Banco de dados PostGreSQL
+
+### IFSul Campus Gravataí
+
+> Concluído em Março/2022
+
+Você pode acessar o certificado <a href="https://drive.google.com/file/d/1NB6UWpbXiLSdk61R0WR2hH2em1POd2EA/view?usp=sharing">aqui</a>!
+
+### Módulos estudados ao longo do curso
+
+- O que é um Banco de Dados?
+- Modelos de Banco de dados
+- UNIDADE II– Abordagem entidade-relacionamento
+
+- Entidade
+- Relacionamento
+- Atributo
+- Generalização/especialização
+- Entidade associativa
+- Propriedades de modelo ER
+- Estabelecimento de padrões
+- Estratégias de modelagem
+- Composição de um banco de dados relacional
+- Transformação do modelo conceitual para o relacional
+- Engenharia Reversa de modelos relacionais
+- Representação na forma de tabela não-normalizada
+- Normalização de dados
+
 ## Curso Aprender a Aprender: Técnicas para seu autodesenvolvimento
 
 ### Plataforma de cursos Alura
@@ -121,3 +149,20 @@ Você pode acessar o certificado <a href="https://drive.google.com/file/d/1bhuEu
 
 - O poder das Metas
 - Rotina de Aprendizagem
+
+## Curso Inglês iniciante, Nível A1
+
+### MUNDI - Plataforma Educacional
+
+> Concluído em Julho/2023
+
+Você pode acessar o certificado <a href="https://drive.google.com/file/d/1EAH6WeSSI8mMX5x8fqabVullwQyFbUyk/view?usp=sharing">aqui</a>!
+
+### Módulos estudados ao longo do curso
+
+- Identificação e caracterização pessoal (Personal Identification)
+- Localização no tempo e no espaço (Time and Space)
+- Meios de transporte (Means of transportation)
+
+- Família (Family)
+- Rotina e hábitos em casa (Habits and routine at home)
