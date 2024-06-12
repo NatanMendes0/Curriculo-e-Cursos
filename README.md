@@ -1,53 +1,123 @@
-# Certificados de cursos
+# Certificados de cursos realizados
 
-<h4>
-Certificados <a href="https://drive.google.com/drive/folders/1XY3ewq-zKanyI1XjKBd7_7qcl2Pxjnhr?usp=share_link"> aqui </a>
-</h4>
+### Olá! Bem vindo ao meu repositório onde listo os cursos realizados e acredito valer a pena mencioná-los aqui. Você pode acessar todos meus certificados no meu Google drive, <a href="https://drive.google.com/drive/folders/1XY3ewq-zKanyI1XjKBd7_7qcl2Pxjnhr?usp=share_link">aqui</a>!
 
-Curso Técnico em Informática para Internet Integrado
+## Ensino superior - Técnologo em análise e desenvolvimento de sistemas
 
-<h4>Instituto Federal Sul-rio-grandense</h4>
+### Instituto Federal Sul-rio-grandense Campus Gravataí
 
-<h4>Previsão de conclusão: 2024</h4>
+> Previsão de conclusão em 2027
 
-Comprovante de Matrícula <a href="https://docs.google.com/document/d/1V-KKUZG-tpFsYPs3ph_9zjeToVUoTW39u1h6UQqcRWM/edit?usp=sharing"> aqui </a>
+Comprovante de matrícula <a href="https://drive.google.com/drive/folders/1Aa3ypqjIEqwQ1ksspRoZeU48Uh3P5-Ec?usp=sharing">aqui</a>!
 
-<li>Algoritmos e Programação</li>
-<li>Programação para Internet</li>
-<li>Sistemas Operacionais</li>
-<li>Programação Orientada a Objetos</li>
-<li>Banco de Dados</li>
-<li>Administração de Sistemas Operacionais</li>
-<li>Redes e Computadores</li>
-<li>Programação Visual</li>
-<li>Teste e Qualidade de Software</li>
-<li>Programação para Dispositivos Móveis</li>
-<li>Engenharia de Software</li>
-<li>Gestão e Empreendorismo</li>
-<li>Implementação</li>
+### Atividades realizadas ao longo dos semstres
 
-<p>
---------------------//--------------------
-</p>
+- Algoritmos e Lógica de Programação
+- Inglês
+  
+- Introdução a Programação Visual
+- Matemática
+- Programação para Internet
+- Atividade de Extensão
+- Banco de Dados
+- Estrutura de Dados
+- Redes de Computadores
+- Arquitetura e Organização de Computadores
+- Engenharia de Software
+- Programação Orientada a Objetos
+- Saúde e Qualidade de Vida
+- Desenvolvimento de Sistemas
+- Português
+- Sistemas Operacionais
+- Metodologia Científica
+- Programação de Dispositivos Móveis
+- Qualidade e Teste de Software
+- Segurança da Informação
+- Banco de Dados Não Convencionais
+- Ética e Sociedade
+- Tópicos Avançados
+- Trabalho de Conclusão de Curso (TCC)
 
-Curso Desvendando Banco de Dados
-<br>
-<li>Comandos SQL</li>
-<li>SGBD</li>
-<li>Gerenciamento e Administração</li>
-<li>Implementação</li>
-<br>
-Certificado <a href="https://docs.google.com/document/d/18ng5TMvwCHsQkWc7LoGQruJzndEVSUejmwOw8W1PD3k/edit?usp=sharing"> aqui </a>
+## Ensino médio e Curso Técnico em Informática para Internet Integrado
 
-<p>
---------------------//--------------------
-</p>
+### Instituto Federal Sul-rio-grandense Campus Gravataí
 
-<h5>Em andamento:</h5>
+> Concluído em 2023
 
-Explorando o Banco de Dados Oracle
+Diploma <a href="https://drive.google.com/file/d/1KqGsRu1TbPDwUpIYonwj-e5jvc7cOPbW/view?usp=drive_link">aqui</a>!
 
-<li>Introdução ao banco de dados Oracle</li>
-<li>Acessando o banco de dados Oracle</li>
-<li>Criando um banco de dados Oracle com DBCA</li>
-<li>Inicializando e desligando uma instancia do banco de dados</li>
+### Atividades realizadas ao longo do curso técnico:
+
+- Algoritmos e Programação
+  
+- Programação para Internet
+- Sistemas Operacionais
+- Programação Orientada a Objetos
+- Banco de Dados
+- Administração de Sistemas Operacionais
+- Redes e Computadores
+- Programação Visual
+- Teste e Qualidade de Software
+- Programação para Dispositivos Móveis
+- Engenharia de Software
+- Gestão e Empreendorismo
+- Implementação
+
+## Curso Git e Github: Compartilhando e colaborando em projetos
+
+### Plataforma de cursos Alura
+
+> Concluído em Junho/2024
+
+Você pode acessar o certificado <a href="https://drive.google.com/file/d/1ZAPDdSmXkWpvGbhIhAbBdZIAHG6YCrAu/view?usp=sharing">aqui</a>!
+
+### Módulos estudados ao longo do curso
+
+- Compartilhando projetos
+- Colaborando em projetos
+- Utilizando Git na IDE
+  
+- Voltando no tempo
+- Mais recursos
+
+## Programador web
+
+### MUNDI - Plataforma Educacional 
+
+> Concluído em Outubro/2020
+
+Você pode acessar o certificado <a href="https://drive.google.com/file/d/1bhG8Db-8q5hdJV2ibB5g8YZu7qiJKDqY/view?usp=sharing">aqui</a>! 
+
+### Módulos estudados ao longo do curso
+
+- Formas de avaliação
+- Critérios importantes
+- Fundamentos de Programação:
+
+- Algoritmos e lógica de programação
+- Linguagem de Estruturas e Python
+- Lógica de Programação:
+
+- Introdução à algoritmia
+- Algoritmos matemáticos
+- Vetores e Matrizes com scripts
+- Banco de Dados:
+- Conhecendo um Banco de Dados
+- Implementando um Banco De Dados
+
+## Curso Aprender a Aprender: Técnicas para seu autodesenvolvimento
+
+### Plataforma de cursos Alura
+
+> Concluído em Junho/2024
+
+Você pode acessar o certificado <a href="https://drive.google.com/file/d/1bhuEuA42SOme0xj_2C24nfQ-d2X0JYai/view?usp=sharing">aqui</a>!
+
+### Módulos estudados ao longo do curso
+
+- Aprendizagem como Estilo de Vida
+- Talento ou Disciplina?
+- Desvendando o Cérebro
+
+- O poder das Metas
+- Rotina de Aprendizagem
