@@ -88,13 +88,12 @@ Você pode acessar o certificado <a href="https://drive.google.com/file/d/1ZAPDd
 
 Você pode acessar o certificado <a href="https://drive.google.com/file/d/1r1RN5eHqqLFZEmo9Xq_pGUbPCyaZvgjE/view?usp=sharing">aqui</a>!
 
-###Módulos estudados ao longo do curso
+### Módulos estudados ao longo do curso:
 
 - Primeiro programa em Java
-- Construindo o catálogo de filmes
-- Controlando o fluxo da aplicação
-
-- Consolidando conhecimentos
+- Construindo o catálogo de filmes (aprendendo sobre variáveis, operadores, convenção de código, tipos primitivos e Strings)
+- Controlando o fluxo da aplicação (casting, switch case, leitura e saída de dados, laços de repetição)
+- Consolidando conhecimentos (desafio final, que engloba todo o conteúdo abordado)
 
 ## Programador web
 
