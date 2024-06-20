@@ -73,14 +73,31 @@ Você pode acessar o certificado <a href="https://drive.google.com/file/d/1ZAPDd
 
 ### Módulos estudados ao longo do curso
 
-- Compartilhando projetos
-- Colaborando em projetos
-- Utilizando Git na IDE
+- Compartilhando projetos com git init
+- Colaborando em projetos com git clone e remote
+- Utilizando Git na IDE Visual Studio Code
   
-- Voltando no tempo
-- Mais recursos
+- Voltando no tempo com git revert, --amnend e reset
+- Mais recursos (readme.md e .gitignore)
+
+## Java: Criando a sua primeira aplicação
+
+### Plataforma de cursos alura
+
+> Concluído em Junho/2024
+
+Você pode acessar o certificado <a href="https://drive.google.com/file/d/1r1RN5eHqqLFZEmo9Xq_pGUbPCyaZvgjE/view?usp=sharing">aqui</a>!
+
+###Módulos estudados ao longo do curso
+
+- Primeiro programa em Java
+- Construindo o catálogo de filmes
+- Controlando o fluxo da aplicação
+
+- Consolidando conhecimentos
 
 ## Programador web
+
 
 ### MUNDI - Plataforma Educacional 
 
