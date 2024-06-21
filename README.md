@@ -2,7 +2,7 @@
 
 ### Olá! Bem-vindo(a) ao meu repositório onde listo os cursos realizados e acredito valer a pena mencioná-los aqui. Você pode acessar todos meus certificados no meu Google drive, <a href="https://drive.google.com/drive/folders/1XY3ewq-zKanyI1XjKBd7_7qcl2Pxjnhr?usp=share_link">aqui</a>!
 
-### Se você gostaria de analisar meu currículo, é possível encontrá-lo clicando <a href="https://drive.google.com/drive/folders/1XY3ewq-zKanyI1XjKBd7_7qcl2Pxjnhr?usp=share_link">aqui</a>!
+### Se você gostaria de analisar meu currículo, é possível encontrá-lo clicando <a href="https://drive.google.com/drive/folders/1XY3ewq-zKanyI1XjKBd7_7qcl2Pxjnhr?usp=share_link">aqui</a>.
 
 ## Ensino superior - Técnologo em análise e desenvolvimento de sistemas
 
