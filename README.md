@@ -184,3 +184,19 @@ Você pode acessar o certificado <a href="https://drive.google.com/file/d/1EAH6W
 
 - Família (Family)
 - Rotina e hábitos em casa (Habits and routine at home)
+
+## Curso Inteligência Emocional: Práticas para o cotidiano
+
+### MUNDI - Plataforma Educacional
+
+> Concluído em Junho/2024
+
+Você pode acessar o certificado <a href="https://drive.google.com/file/d/1kLC6ebrU3-VBx_213kSg6MKA4Z2AZOlg/view?usp=sharing">aqui</a>!
+
+### Módulos realizados ao longo do curso
+
+- Emoções
+- QE versus QI
+- Impacto da IE
+- Aumento de QE
+- IE no contexto profissional
