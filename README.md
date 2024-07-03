@@ -2,7 +2,7 @@
 
 ### Olá! Bem-vindo(a) ao meu repositório onde listo os cursos realizados e acredito valer a pena mencioná-los aqui. Você pode acessar todos meus certificados no meu Google drive, <a href="https://drive.google.com/drive/folders/1XY3ewq-zKanyI1XjKBd7_7qcl2Pxjnhr?usp=share_link">aqui</a>!
 
-### Se você gostaria de analisar meu currículo, é possível encontrá-lo clicando <a href="https://drive.google.com/file/d/1O2Zc6Mkgc9uEOGqwsFG1sl7Xr-rRIgpD/view?usp=sharing">aqui</a>.
+### Se você gostaria de analisar meu currículo, é possível encontrá-lo clicando <a href="https://drive.google.com/file/d/1BHa8woKuooIKZIqrLvjjBZ_JD7Kg-EQU/view?usp=sharing">aqui</a>.
 
 ## Ensino superior - Técnologo em análise e desenvolvimento de sistemas
 
@@ -12,7 +12,7 @@
 
 Comprovante de matrícula <a href="https://drive.google.com/drive/folders/1Aa3ypqjIEqwQ1ksspRoZeU48Uh3P5-Ec?usp=sharing">aqui</a>!
 
-### Atividades realizadas ao longo dos semstres
+### Atividades realizadas ao longo dos semestres
 
 - Algoritmos e Lógica de Programação
 - Inglês
@@ -65,30 +65,49 @@ Diploma <a href="https://drive.google.com/file/d/1KqGsRu1TbPDwUpIYonwj-e5jvc7cOP
 - Gestão e Empreendorismo
 - Implementação
 
+  <br/>
+
+# Cursos complementares
+
+## Java: Aplicando a orientação a Objetos
+
+### Plataforma de cursos Alura
+
+> Concluído em Julho/2024
+
+Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1OoMxeCqY2ERYSKHgw6Gd5zQ0byyMsN5O/view?usp=sharing)!
+
+### Módulos concluídos durante o curso:
+
+- Modelagem do ScreenMatch
+- Gestão de acesso e manipulação de dados da aplicação
+- Reutilização de características e comportamentos
+- Implementação de comportamentos comuns
+- Consolidação dos conhecimentos adquiridos ao longo do curso (Desafio Final)
+
 ## Curso Git e Github: Compartilhando e colaborando em projetos
 
 ### Plataforma de cursos Alura
 
 > Concluído em Junho/2024
 
-Você pode acessar o certificado <a href="https://drive.google.com/file/d/1ZAPDdSmXkWpvGbhIhAbBdZIAHG6YCrAu/view?usp=sharing">aqui</a>!
+Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1ZAPDdSmXkWpvGbhIhAbBdZIAHG6YCrAu/view?usp=sharing)!
 
-### Módulos estudados ao longo do curso
+### Módulos estudados ao longo do curso:
 
 - Compartilhando projetos com git init
 - Colaborando em projetos com git clone e remote
 - Utilizando Git na IDE Visual Studio Code
-  
 - Voltando no tempo com git revert, --amnend e reset
 - Mais recursos (readme.md e .gitignore)
 
 ## Java: Criando a sua primeira aplicação
 
-### Plataforma de cursos alura
+### Plataforma de cursos Alura
 
 > Concluído em Junho/2024
 
-Você pode acessar o certificado <a href="https://drive.google.com/file/d/1r1RN5eHqqLFZEmo9Xq_pGUbPCyaZvgjE/view?usp=sharing">aqui</a>!
+Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1r1RN5eHqqLFZEmo9Xq_pGUbPCyaZvgjE/view?usp=sharing)!
 
 ### Módulos estudados ao longo do curso:
 
@@ -97,76 +116,37 @@ Você pode acessar o certificado <a href="https://drive.google.com/file/d/1r1RN5
 - Controlando o fluxo da aplicação (casting, switch case, leitura e saída de dados, laços de repetição)
 - Consolidando conhecimentos (desafio final, que engloba todo o conteúdo abordado)
 
-## Programador web
-
-
-### MUNDI - Plataforma Educacional 
-
-> Concluído em Outubro/2020
-
-Você pode acessar o certificado <a href="https://drive.google.com/file/d/1bhG8Db-8q5hdJV2ibB5g8YZu7qiJKDqY/view?usp=sharing">aqui</a>! 
-
-### Módulos estudados ao longo do curso
-
-- Formas de avaliação
-- Critérios importantes
-- Fundamentos de Programação:
-
-- Algoritmos e lógica de programação
-- Linguagem de Estruturas e Python
-- Lógica de Programação:
-
-- Introdução à algoritmia
-- Algoritmos matemáticos
-- Vetores e Matrizes com scripts
-- Banco de Dados:
-- Conhecendo um Banco de Dados
-- Implementando um Banco De Dados
-
-## Projeto de ensino Desvendando Banco de dados PostGreSQL
-
-### IFSul Campus Gravataí
-
-> Concluído em Março/2022
-
-Você pode acessar o certificado <a href="https://drive.google.com/file/d/1NB6UWpbXiLSdk61R0WR2hH2em1POd2EA/view?usp=sharing">aqui</a>!
-
-### Módulos estudados ao longo do curso
-
-- O que é um Banco de Dados?
-- Modelos de Banco de dados
-- UNIDADE II– Abordagem entidade-relacionamento
-
-- Entidade
-- Relacionamento
-- Atributo
-- Generalização/especialização
-- Entidade associativa
-- Propriedades de modelo ER
-- Estabelecimento de padrões
-- Estratégias de modelagem
-- Composição de um banco de dados relacional
-- Transformação do modelo conceitual para o relacional
-- Engenharia Reversa de modelos relacionais
-- Representação na forma de tabela não-normalizada
-- Normalização de dados
-
 ## Curso Aprender a Aprender: Técnicas para seu autodesenvolvimento
 
 ### Plataforma de cursos Alura
 
 > Concluído em Junho/2024
 
-Você pode acessar o certificado <a href="https://drive.google.com/file/d/1bhuEuA42SOme0xj_2C24nfQ-d2X0JYai/view?usp=sharing">aqui</a>!
+Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1bhuEuA42SOme0xj_2C24nfQ-d2X0JYai/view?usp=sharing)!
 
-### Módulos estudados ao longo do curso
+### Módulos estudados ao longo do curso:
 
 - Aprendizagem como Estilo de Vida
 - Talento ou Disciplina?
 - Desvendando o Cérebro
-
 - O poder das Metas
 - Rotina de Aprendizagem
+
+## Curso Inteligência Emocional: Práticas para o cotidiano
+
+### Alura
+
+> Concluído em Junho/2024
+
+Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1kLC6ebrU3-VBx_213kSg6MKA4Z2AZOlg/view?usp=sharing)!
+
+### Módulos realizados ao longo do curso:
+
+- Emoções
+- QE versus QI
+- Impacto da IE
+- Aumento de QE
+- IE no contexto profissional
 
 ## Curso Inglês iniciante, Nível A1
 
@@ -174,29 +154,59 @@ Você pode acessar o certificado <a href="https://drive.google.com/file/d/1bhuEu
 
 > Concluído em Julho/2023
 
-Você pode acessar o certificado <a href="https://drive.google.com/file/d/1EAH6WeSSI8mMX5x8fqabVullwQyFbUyk/view?usp=sharing">aqui</a>!
+Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1EAH6WeSSI8mMX5x8fqabVullwQyFbUyk/view?usp=sharing)!
 
-### Módulos estudados ao longo do curso
+### Módulos estudados ao longo do curso:
 
 - Identificação e caracterização pessoal (Personal Identification)
 - Localização no tempo e no espaço (Time and Space)
 - Meios de transporte (Means of transportation)
-
 - Família (Family)
 - Rotina e hábitos em casa (Habits and routine at home)
 
-## Curso Inteligência Emocional: Práticas para o cotidiano
+## Projeto de ensino Desvendando Banco de dados PostGreSQL
 
-### MUNDI - Plataforma Educacional
+### IFSul Campus Gravataí
 
-> Concluído em Junho/2024
+> Concluído em Março/2022
 
-Você pode acessar o certificado <a href="https://drive.google.com/file/d/1kLC6ebrU3-VBx_213kSg6MKA4Z2AZOlg/view?usp=sharing">aqui</a>!
+Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1NB6UWpbXiLSdk61R0WR2hH2em1POd2EA/view?usp=sharing)!
 
-### Módulos realizados ao longo do curso
+### Módulos estudados ao longo do curso:
 
-- Emoções
-- QE versus QI
-- Impacto da IE
-- Aumento de QE
-- IE no contexto profissional
+- O que é um Banco de Dados?
+- Modelos de Banco de dados
+- UNIDADE II– Abordagem entidade-relacionamento
+  - Entidade
+  - Relacionamento
+  - Atributo
+  - Generalização/especialização
+  - Entidade associativa
+  - Propriedades de modelo ER
+  - Estabelecimento de padrões
+  - Estratégias de modelagem
+  - Composição de um banco de dados relacional
+  - Transformação do modelo conceitual para o relacional
+  - Engenharia Reversa de modelos relacionais
+  - Representação na forma de tabela não-normalizada
+  - Normalização de dados
+
+## Programador web
+
+### MUNDI - Plataforma Educacional 
+
+> Concluído em Outubro/2020
+
+Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1bhG8Db-8q5hdJV2ibB5g8YZu7qiJKDqY/view?usp=sharing)!
+
+### Módulos estudados ao longo do curso:
+
+- Formas de avaliação
+- Critérios importantes
+- Lógica de Programação:
+  - Introdução à algoritmia
+  - Algoritmos matemáticos
+  - Vetores e Matrizes com scripts
+- Banco de Dados:
+  - Conhecendo um Banco de Dados
+  - Implementando um Banco De Dados
