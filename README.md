@@ -134,7 +134,7 @@ Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1bhuEuA4
 
 ## Curso Inteligência Emocional: Práticas para o cotidiano
 
-### Alura
+### Plataforma de cursos Alura
 
 > Concluído em Junho/2024
 
