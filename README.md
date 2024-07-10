@@ -69,6 +69,22 @@ Diploma <a href="https://drive.google.com/file/d/1KqGsRu1TbPDwUpIYonwj-e5jvc7cOP
 
 # Cursos complementares
 
+## Java: Trabalhando com listas e coleções de dados
+
+### Plataforma de cursos Alura
+
+> Concluído em Junho/2024
+
+Você pode acessar o certificado [aqui](https://cursos.alura.com.br/certificate/71e47d0a-67b1-4163-afdf-a136ee277847)!
+
+### Módulos concluídos durante o curso:
+
+- **Módulo 1: Introdução às Listas**: Utilização do `Arraylist` e seus métodos `add()`, `remove()` e `remove(index)`;
+
+- **Módulo 2: Trabalhando com Coleções**: Introdução a interfaces `Collection`, `Comparable` e `List`, e como elas definem as funcionalidades básicas de uma coleção. Além de utilizar diferentes tipos de coleções, como `ArrayList`, `LinkedList`, `HashSet` e `HashMap`;
+
+- **Módulo 3: Implementando o Desafio**: Colocar em prática tudo aprendido, pela construção de uma aplicação de compras com cartão de crédito, possibilitando o utuário a definir o limite do cartão e evitar compras acima do saldo disponível.
+
 ## Java: Aplicando a orientação a Objetos
 
 ### Plataforma de cursos Alura
@@ -79,11 +95,11 @@ Você pode acessar o certificado [aqui](https://drive.google.com/file/d/1OoMxeCq
 
 ### Módulos concluídos durante o curso:
 
-- Modelagem do ScreenMatch
-- Gestão de acesso e manipulação de dados da aplicação
-- Reutilização de características e comportamentos
-- Implementação de comportamentos comuns
-- Consolidação dos conhecimentos adquiridos ao longo do curso (Desafio Final)
+- **Módulo 1: Introdução à Orientação a Objetos**: Introdução aos pilares da Orientação a Objetos: abstração, encapsulamento, herança e polimorfismo. Além de como criar classes, objetos, definir atributos (dados) e métodos (comportamentos) dentro de uma classe. Foi abordado também como controlar o acesso aos atributos e métodos de uma classe, utilizando modificadores como `public`, `private` e `protected`.
+
+- **Módulo 2: Herança e Polimorfismo**: Foi visto como criar novas classes (subclasses) que herdam características de classes existentes (superclasses), além de sobrescrever métodos de superclasses em subclasses para percosanilzar o comportamento, explorando conceitos de polimorfismo. Além disso, aprendi a definir interfaces, que especificam contratos para classes que as implementam, e como criar classes abstratas, que servem como modelos para outras classes.
+
+- **Módulo 3: Trabalhando com Objetos**: Foi posto em prática a criação de objetos a partir de classes, assim como chamar métodos de objetos para executar suas funcionalidades (com ou sem passagem de parâmetros para métodos). Por fim, exploramos diferentes tipos de relações entre objetos, como associação, agregação e composição.
 
 ## Curso Git e Github: Compartilhando e colaborando em projetos
 
