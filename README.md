@@ -69,11 +69,31 @@ Diploma <a href="https://drive.google.com/file/d/1KqGsRu1TbPDwUpIYonwj-e5jvc7cOP
 
 # Cursos complementares
 
+## Lógica de Programação: Mergulhe em Programação com JavaScript
+
+### Plataforma de cursos Alura
+
+> Concluído em Julho/2024
+
+Você pode acessar o certificado [aqui](https://cursos.alura.com.br/certificate/71e47d0a-67b1-4163-afdf-a136ee277847)!
+
+### Módulos concluídos durante o curso:
+
+- **Módulo 1: Iniciando com JavaScript**: Introdução aos conceitos básicos da lógica de programação, familiarização com a linguagem JavaScript e seu ambiente de desenvolvimento, criação de programas simples utilizando `console.log()`, variáveis e operações matemáticas básicas;
+
+- **Módulo 2: Condicionais e concatenação**: Utilização de estruturas condicionais `if, else e else if` para controlar o fluxo de execução do código, além de utilizar a concatenação de strings com o operador `+` e `template literals`;
+  
+- **Módulo 3: Loops e tentativas**: Abordagem sobre os loops `for, while e do while` para executar blocos de código repetidamente.
+
+- **Módulo 4: Boas práticas da programação**: Enfatizar a importância de boas práticas de programação, como a utilização de comentários para documentar o código, a escolha de nomes descritivos para variáveis, a indentação e formatação consistente do código.
+
+- **Módulo 5: Desafio**: Desenvolvimento de um jogo simples utilizando os conhecimentos adquiridos durante o curso, aplicando lógica de programação para implementar as regras do jogo e criar uma experiência interativa.
+
 ## Java: Trabalhando com listas e coleções de dados
 
 ### Plataforma de cursos Alura
 
-> Concluído em Junho/2024
+> Concluído em Julho/2024
 
 Você pode acessar o certificado [aqui](https://cursos.alura.com.br/certificate/71e47d0a-67b1-4163-afdf-a136ee277847)!
 
